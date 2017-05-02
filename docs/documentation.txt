@@ -1,0 +1,48 @@
+what is bowtie basic
+ - overview
+ - whats included
+ - examples
+
+install
+ - system requirements
+ - create database
+ - modify environment.php
+ - upload and test
+
+setup
+ - need favicon.ico <?=$URL;?>/favicon.ico (from head.tpl.php)
+ - need default logo
+
+info
+ - define constants in PHP
+ - define constants in VIEWs
+ - global $params
+
+development
+ - how to add controller / views
+ - how routing works
+ - show how to run DB queries
+ - show how to interate over results
+ - show how to build tables - relatedData
+ - show a 2nd interface
+
+templating
+ - how to assign variables
+ - how to add js
+ - $this->view->addJS(URL.'frontend/views/js/whatev.js');
+ - how to add css
+ - $this->view->addCSS(URL.'frontend/views/css/whatev.css');
+ - how to do logic in templates
+ 
+coming soon
+ - SMO
+ - SMTP
+ - Users
+ 
+write specific install instructions for...
+ - launch on shared hosting
+ - launch on AWS 
+ - launch on Google Cloud Services
+ 
+donations
+ - buy me beer

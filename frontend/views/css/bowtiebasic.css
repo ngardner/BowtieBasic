@@ -1,0 +1,11 @@
+.navbar-brand { padding: 8px 15px; }
+.navbar-brand>img { height: 100%; }
+footer .legal { text-align: center; font-size: 80%; }
+
+.list-group.filesystem { margin: 0; box-shadow: none; }
+.list-group.filesystem .folder { margin: 0; border: none; padding: 0 0 0 20px; }
+.list-group.filesystem .file { margin: 0; border: none; padding: 0 0 0 20px; }
+
+dl.dl-code { }
+dl.dl-code dt { background: #e0e0e0; padding: 10px; }
+dl.dl-code dd { background: #f0f0f0; padding: 10px; border-bottom: 1px solid #e0e0e0; margin-bottom: 10px; }
